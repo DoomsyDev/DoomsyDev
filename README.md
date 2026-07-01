@@ -6,8 +6,6 @@ Software Engineering Student ｜ MILC (Man I Love Coffee)
 ## About me
 ```bash
 > working_on: "A solution for a specific need in my country"
-> learning: "Philosophy && Communication"
-> ask_me_about: ["Boxing", "Lego", "Music"]
 ```
 
 ---
