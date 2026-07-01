@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Rúben Barbosa! 👋
+# Hi there, I'm Rúben Barbosa!
 
 ### Software Engineering Student @ IPCA | Developer @ Deloitte
 
