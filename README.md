@@ -1,6 +1,17 @@
-# Hey, I'm Rúben Barbosa
-Software Engineering Student ｜ MILC (Man I Love Coffee)
+<div align="center">
 
+# Hi there, I'm Rúben Barbosa! 👋
+
+### Software Engineering Student @ IPCA | Developer @ Deloitte
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Developer;Based+in+Portugal)](https://git.io/typing-svg)
+
+---
+
+[![](https://img.shields.io/badge/LinkedIn-Rúben_Barbosa-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rubenbarbosa2023/)
+[![](https://img.shields.io/badge/GitHub-bernam07-100000?style=for-the-badge&logo=github)](https://github.com/DoomsyDev)
+
+</div>
 ---
 
 ## About me
