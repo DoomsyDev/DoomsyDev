@@ -23,7 +23,7 @@
 ---
 
 ## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=Blue)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
